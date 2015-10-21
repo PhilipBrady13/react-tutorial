@@ -4,7 +4,19 @@
         "text": "Hey there!"
     },
     {
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "author": "test",
+        "text": "1"
+    },
+    {
+        "author": "test",
+        "text": "2"
+    },
+    {
+        "author": "test",
+        "text": "3"
+    },
+    {
+        "author": "test",
+        "text": "4"
     }
 ]
